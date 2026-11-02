@@ -299,4 +299,4 @@ The ECR repository is created with `force_delete = true`, so it is removed even 
 
 ## Author
 
-**<YOUR_NAME>**: [LinkedIn](https://www.linkedin.com/in/<your-profile>) | [GitHub](https://github.com/<your-username>)
+**Suyash Hardas**: [LinkedIn](www.linkedin.com/in/suyash-hardas-4448a0249) | [GitHub](https://github.com/suyash1701)
