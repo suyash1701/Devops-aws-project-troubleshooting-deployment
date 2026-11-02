@@ -1,0 +1,20 @@
+# Terraform (state files can contain secrets - NEVER commit)
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+
+# SSH keys
+*.pem
+suyash-key
+suyash-key.pub
+id_rsa*
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
